@@ -1,0 +1,31 @@
+main{
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+img{
+    width: 80px;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.rain{
+    background: url('https://channel45news.com/wp-content/uploads/2017/05/wallpaper-drops-of-rain-from-sky-weather.jpg') center/cover;
+    width: 100%;
+    height: 100vh;
+}
+.cloudy{
+    background: url('https://cdn.pixabay.com/photo/2017/05/29/20/57/cloud-2354899_960_720.jpg') center/cover;
+    width: 100%;
+    height: 100vh;
+}
+.sunny{
+    background: url('https://vmcdn.ca/f/files/baytoday/images/weather/sun-sky-2017.jpg;w=630') center/cover;
+    width: 100%;
+    height: 100vh;
+}
